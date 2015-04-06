@@ -25,6 +25,7 @@
  */
 
 // Change current directory to the directory of current script
+// Test second branch
 chdir(dirname(__FILE__));
 
 require 'app/Mage.php';
